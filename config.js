@@ -16,7 +16,7 @@ const pkg = JSON.parse(fs.readFileSync('./package.json', 'utf-8'))
 const moduleCache = new NodeCache({ stdTTL: 300 });
 
 	
-global.gab = ['393882471151',]
+global.gab = ['996770123983',]
 global.owner = [
   ['393294241699', 'Lucifero', true],
   ['393892430108', 'Gab', true],
@@ -25,10 +25,10 @@ global.owner = [
 
 
 global.nomepack = '333'
-global.nomebot = ' ꙰ 𝟥𝟥𝟥 𝔹𝕆𝕋  ꙰'
+global.nomebot = ' ꙰paranoia.ू࿇͜☽ू  ꙰'
 global.wm = '333'
-global.autore = 'gab'
-global.dev = 'lucifero'
+global.autore = 'paranoia'
+global.dev = 'amnesia'
 global.testobot = `333`
 global.versione = pkg.version
 global.errore = '⚠️ *Errore inatteso!* Usa il comando `.ticket` per avvisare gli owner.'
